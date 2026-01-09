@@ -5,7 +5,7 @@ export interface Product {
   description: string;
   price: number;
   discountPercentage: number;
-  image: string; // Base64 or URL
+  image: string;
   category: string;
   createdAt: number;
 }
