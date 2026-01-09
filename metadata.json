@@ -1,0 +1,7 @@
+{
+  "name": "Copy of متجر كرزة للحلويات",
+  "description": "متجر حلويات ذكي وقابل للتثبيت كتطبيق على الجوال والكمبيوتر.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

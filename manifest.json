@@ -1,0 +1,17 @@
+
+{
+  "short_name": "كرزة",
+  "name": "متجر كرزة للحلويات",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1141/1141771.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#db2777",
+  "background_color": "#fff1f2"
+}
